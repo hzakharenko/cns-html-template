@@ -63,6 +63,10 @@ BODY {
   margin-top:100px;
 }
 
+.carousel-control-next .carousel-control-prev {
+  color: black;
+}
+
 .accordion button{
   text-decoration: none;
 }
@@ -71,6 +75,10 @@ BODY {
   background-color: #eeeeee;
   padding: 25px 40px 20px;
   text-align: left;
+}
+
+.resource-container b {
+  font-weight: !important;
 }
 
 /* Nav Bar styles */
