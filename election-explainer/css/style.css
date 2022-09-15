@@ -183,6 +183,10 @@ p{
   padding-bottom:25px;
 }
 
+.intro-text b {
+  color: #991b1e;
+}
+
 .chapter-head {
   font-size:2em;
   font-family: 'Poppins', sans-serif;
