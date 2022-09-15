@@ -65,7 +65,12 @@ BODY {
 
 .accordion button{
   text-decoration: none;
-  text-decoration-color: black;
+}
+
+.resource-container {
+  background-color: #eeeeee;
+  padding: 25px 40px 20px;
+  text-align: left;
 }
 
 /* Nav Bar styles */
