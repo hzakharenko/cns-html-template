@@ -127,6 +127,7 @@ a:visited.toc-link {color:#000;}
 
 .hero-image{
     width:100%;
+    scale: 70%;
 }
 
 .stack-image {
@@ -197,6 +198,7 @@ p{
 .small-head {
   font-size:1.5em;
   font-family: 'Poppins', sans-serif;
+  text-align: center;
 }
 
 .caption {
